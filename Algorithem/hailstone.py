@@ -7,4 +7,4 @@ def heilstone(n):
     else:
         print(n,end=" ")
         heilstone(3*n+1)
-heilstone(5)
+heilstone(25)
